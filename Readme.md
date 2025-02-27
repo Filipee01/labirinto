@@ -25,7 +25,7 @@ Esta atividade envolve a criação de um labirinto em Python, usando a bibliotec
 ## 📂 Estrutura de Arquivos
 
 - `__pycache__`: Contém o arquivo executável.
--`Readme.md`: contém as istruções sobre toda implementação
+- `Readme.md`: contém as istruções sobre toda implementação.
 - `labirinto1.txt`: Arquivo que contém os dígitos binários base para a construção do labirinto.
 - `main_maze.py`: Arquivo principal que cria e executa o labirinto.
 - `maze.py`: Arquivo de implementação do labirinto.
